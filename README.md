@@ -2,6 +2,7 @@
 2024-2025 EVEN SEM Archive Repositories
 
 
+## [Weekly Leetcodes EVEN 2025](https://github.com/gokul2736/LEET-CODES-EVEN25)
 ## [Engineering Mechanics and Product Development](https://github.com/gokul2736/SEM-2-Archives/blob/main/Engineering%20Mechanics%20and%20Product%20Development)  
 ## [Cryptography](https://github.com/gokul2736/SEM-2-Archives/blob/main/Cryptography)  
 ## [Digital Electronics](https://github.com/gokul2736/SEM-2-Archives/blob/main/Digital%20Electronics) 
